@@ -1,0 +1,225 @@
+.main-title{
+font-family: 'Cormorant Garamond', serif;
+display: inline;
+padding-right: 50px;
+}
+
+body {
+  padding-top: 90px;
+  padding-left: 80px;
+  padding-right: 70px;
+  margin: 0;
+}
+
+.menu-link {
+  text-decoration: none;
+  color: black;
+  padding: 0 10px;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 13px;
+  display: inline;
+}
+
+.menu-link:hover {
+  color: grey;
+}
+
+.middle-index {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin: 200px;
+}
+
+.bottom {
+  clear: both;
+}
+/* shop */
+
+.cart {
+  text-decoration: none;
+  color: black;
+  padding: 0 10px;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 13px;
+}
+
+.shop {
+  margin-left: 300px;
+  -webkit-border-radius: 48;
+   -moz-border-radius: 48;
+   border-radius: 48px;
+   font-family: Courier New;
+   color: #000000;
+   font-size: 13px;
+   background: #ffffff;
+   padding: 10px 20px 10px 20px;
+   border: solid #000000 2px;
+   text-decoration: none;
+}
+.shop:hover {
+  background: #000000;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+/* dog stuff */
+
+.dog-link {
+  text-decoration: none;
+  color: black;
+  padding: 60px 10px;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 17px;
+  display: inline;
+}
+.dog-link:hover {
+  color: grey;
+}
+
+.picture-of-dog {
+    width: 30em;
+  }
+.links-top {
+  margin-bottom: 35px;
+  text-align: center;
+}
+
+.links-bottom {
+  margin-top: 60px;
+  text-align: center;
+}
+/* -------------------------------------about */
+
+.about-title {
+  font-family: 'Arvo', serif;
+  margin: 30px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+}
+
+.middle-about {
+  margin: 100px 0;
+}
+
+.picture-of-dog-about{
+  float: left;
+  width: 30rem;
+  margin-right: 100px;
+  margin-bottom: 100px;
+}
+
+.woof {
+  clear: both;
+  position: relative;
+  bottom: 90px;
+}
+
+p {
+  font-family: 'Cormorant Garamond', serif;
+}
+
+/*------------------------------testimonials*/
+.test-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Arvo', serif;
+  margin: 60px 0;
+  font-size: 20px;
+}
+
+.middle-test {
+  margin: 40px;
+}
+
+/*--------------------------------------------------statistics*/
+
+ .picture-of-dog-stats {
+   float: left;
+   width: 30rem;
+   margin-right: 150px;
+   margin-bottom: 150px;
+ }
+
+ .middle-stats {
+   margin-top: 100px;
+ }
+
+ /*------------------------------------------------------cat*/
+
+.picture-of-cat {
+  float: right;
+  left: 900px;
+}
+
+.sorrycat {
+  font-size: 150px;
+  font-family: 'Montserrat', sans-serif;
+  color: #D80000;
+}
+.middle-cat {
+  margin: 30px 20px;
+}
+
+.bottom-cat {
+  clear: both;
+  position: relative;
+  top: 50px;
+}
+
+.sorrycat2 {
+  font-family: 'Arvo', serif;
+  font-size: 40px;
+  position: relative;
+  bottom: 50px;
+}
+
+/*------------------------------------------------------------company*/
+
+.walter {
+  color: red;
+  text-decoration: none;
+  position: relative;
+  top: 30px;
+}
+
+.walter:hover {
+  color: #D80000;
+}
+
+
+
+/*--------------------------------cart*/
+
+.shopbtn {
+font-family: Courier New;
+color: #000000;
+font-size: 13px;
+background: #ffffff;
+padding: 10px 20px 10px 20px;
+border: solid #000000 2px;
+text-decoration: none;
+}
+
+.shopbtn:hover {
+  background: #000000;
+ text-decoration: none;
+ color: #ffffff
+}
+
+.cart-title {
+  font-family: 'Cormorant Garamond', serif;
+  color: #D80000;
+}
+
+.nothing {
+  font-family: 'Cormorant Garamond', serif;
+}
+
+.bottom-cart {
+  position: relative;
+  top: 50px;
+}
